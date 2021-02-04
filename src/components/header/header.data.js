@@ -1,7 +1,7 @@
 export default [
   {
     path: 'home',
-    label: 'Home',
+    label: 'Why Shofrica',
   },
   {
     path: 'support',
