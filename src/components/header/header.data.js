@@ -9,7 +9,7 @@ export default [
   },
   {
     path: 'features',
-    label: 'Features',
+    label: 'Our Platform',
   },
   {
     path: 'pricing',
