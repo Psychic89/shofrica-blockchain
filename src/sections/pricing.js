@@ -10,7 +10,7 @@ const data = [
   {
     id: 1,
     title: 'Startup Pack',
-    subtitle: 'For the startup brands',
+    subtitle: 'For startup brands',
     amount: {
       monthly: 25.99,
       annual: 25.99 * 12 - 10,
@@ -167,8 +167,8 @@ const Pricing = () => {
       <Container>
         <SectionHeading
           sx={styles.heading}
-          title="What deal suits you perfect?"
-          description="Meet our pricing plan"
+          title="What deal suits you best?"
+          description="Here's our pricing plan"
         />
         <Flex sx={styles.priceSwitcher}>
           <Text as="span">Monthly Plan</Text>
