@@ -21,3 +21,14 @@ const styles = {
     },
   },
 };
+
+
+// How to change the Logo
+
+// import LogoSvg from "../assets/images/logo.png"
+// export default function Home() {
+//   return (
+//     // The import result is the URL of your image
+//     <img src={LogoSvg} alt="Shofrica Logo" />
+//   )
+// }
