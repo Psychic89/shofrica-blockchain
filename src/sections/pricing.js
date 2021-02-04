@@ -10,7 +10,7 @@ const data = [
   {
     id: 1,
     title: 'Startup Pack',
-    subtitle: 'For the startup team who work with new come data stack',
+    subtitle: 'For the startup brands',
     amount: {
       monthly: 25.99,
       annual: 25.99 * 12 - 10,
@@ -21,34 +21,69 @@ const data = [
       {
         id: 1,
         isAvailable: true,
-        title: 'Ultimate access to all course, exercises and assessments',
+        title: 'Digitized supplier onboarding',
       },
       {
         id: 2,
         isAvailable: true,
-        title: `Free access for all kind of exercise corrections with downloads.`,
+        title: `Supplier, product & material database`,
       },
       {
         id: 3,
         isAvailable: true,
-        title: `Total assessment corrections with free download access system`,
+        title: `Supply chain mapping & visualization`,
       },
       {
         id: 4,
-        isAvailable: false,
-        title: `Unlimited download of courses on the mobile app contents`,
+        isAvailable: true,
+        title: `Sustainability & transparency score`,
       },
       {
         id: 5,
-        isAvailable: false,
-        title: `Download and print courses and exercises in PDF`,
+        isAvailable: true,
+        title: `Certificate & document management`,
       },
+        {
+            id: 6,
+            isAvailable: true,
+            title: `Audit & corrective action management`,
+        },
+        {
+            id: 7,
+            isAvailable: false,
+            title: `Supplier assessment`,
+        },
+        {
+            id: 8,
+            isAvailable: false,
+            title: `Compliance & sustainability dashboard`,
+        },
+        {
+            id: 8,
+            isAvailable: false,
+            title: `Order management`,
+        },
+        {
+            id: 10,
+            isAvailable: false,
+            title: `Supply chain tracing`,
+        },
+        {
+            id: 11,
+            isAvailable: false,
+            title: `End consumer communication`,
+        },
+        {
+            id: 12,
+            isAvailable: false,
+            title: `Marketing analytics dashboard`,
+        },
     ],
   },
   {
     id: 2,
     title: 'Premium Pack',
-    subtitle: 'For the Pro users who work with modern data stack',
+    subtitle: 'For established brands',
     amount: {
       monthly: 49.99,
       annual: 49.99 * 12 - 10,
@@ -59,28 +94,63 @@ const data = [
       {
         id: 1,
         isAvailable: true,
-        title: 'Ultimate access to all course, exercises and assessments',
+        title: 'Digitized supplier onboarding',
       },
       {
         id: 2,
         isAvailable: true,
-        title: `Free access for all kind of exercise corrections with downloads.`,
+        title: `Supplier, product & material database`,
       },
       {
         id: 3,
         isAvailable: true,
-        title: `Total assessment corrections with free download access system`,
+        title: `Supply chain mapping & visualization`,
       },
       {
         id: 4,
         isAvailable: true,
-        title: `Unlimited download of courses on the mobile app contents`,
+        title: `Sustainability & transparency score`,
       },
       {
         id: 5,
         isAvailable: true,
-        title: `Download and print courses and exercises in PDF`,
+        title: `Certificate & document management`,
       },
+        {
+            id: 6,
+            isAvailable: true,
+            title: `Audit & corrective action management`,
+        },
+        {
+            id: 7,
+            isAvailable: true,
+            title: `Supplier assessment`,
+        },
+        {
+            id: 8,
+            isAvailable: true,
+            title: `Compliance & sustainability dashboard`,
+        },
+        {
+            id: 9,
+            isAvailable: true,
+            title: `Order management`,
+        },
+        {
+            id: 10,
+            isAvailable: true,
+            title: `Supply chain tracing`,
+        },
+        {
+            id: 11,
+            isAvailable: true,
+            title: `End consumer communication`,
+        },
+        {
+            id: 12,
+            isAvailable: true,
+            title: `Marketing analytics dashboard`,
+        },
     ],
   },
 ];
@@ -97,7 +167,7 @@ const Pricing = () => {
       <Container>
         <SectionHeading
           sx={styles.heading}
-          title="What deal suit you perfect"
+          title="What deal suits you perfect?"
           description="Meet our pricing plan"
         />
         <Flex sx={styles.priceSwitcher}>

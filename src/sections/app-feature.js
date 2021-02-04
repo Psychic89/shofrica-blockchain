@@ -5,7 +5,6 @@ import SectionHeading from 'components/section-heading';
 import { LearnMore } from 'components/link';
 import Img from 'components/image';
 import app from 'assets/images/app.png';
-import emoji from 'assets/images/icons/emoji.png';
 import check from 'assets/images/icons/check-circle.png';
 
 const data = [
@@ -53,7 +52,6 @@ const AppFeature = () => {
         <Grid sx={styles.grid}>
           <Box sx={styles.rightContent}>
             <SectionHeading
-              emoji={emoji}
               sx={styles.heading}
               title="Sustainable Supply Chain Management - Accessible & Effective"
               description="Harness the benefits of blockchain in tandem with other cutting edge technologies to discover verifiable provenance now on the Shofrica platform."

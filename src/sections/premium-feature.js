@@ -4,7 +4,6 @@ import { useStaticQuery, graphql } from 'gatsby';
 import SectionHeading from 'components/section-heading';
 import Accordion from 'components/accordion/accordion';
 import Image from 'components/image';
-import emoji from 'assets/images/icons/emoji-2.png';
 
 const data = [
   {
@@ -57,7 +56,6 @@ const PremiumFeature = () => {
           </Box>
           <Box sx={styles.rightContent}>
             <SectionHeading
-              emoji={emoji}
               sx={styles.heading}
               title="Take your sustainability to the next level"
               description="Turn challenges into opportunities to better your business and our world."
