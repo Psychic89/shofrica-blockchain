@@ -19,14 +19,14 @@ const data = [
     tabPane: [
       {
         icon: <Currency />,
-        title: 'Budget Overview',
+        title: 'CSR',
       },
     ],
     tabContent: [
       {
         image: dashboard,
-        title: `First quality feature that boost your website rank & performance`,
-        description: `Build an incredible workplace and grow your business with Gusto’s all-in-one platform with amazing contents. Get your tests delivered at let home collect sample from the victory of the supplies design system.`,
+        title: `Effective and transparent sustainability management`,
+        description: `With our CSR software, you can use one system to efficiently manage your suppliers, monitor your compliance, and get a live overview of your social and environmental sustainability efforts.`,
         readMore: '#introduce-quality',
       },
     ],
@@ -36,14 +36,14 @@ const data = [
     tabPane: [
       {
         icon: <Cog />,
-        title: 'Create & adjust',
+        title: 'Procurement',
       },
     ],
     tabContent: [
       {
         image: dashboard,
-        title: `Second quality feature that boost your website rank & performance`,
-        description: `Build an incredible workplace and grow your business with Gusto’s all-in-one platform with amazing contents. Get your tests delivered at let home collect sample from the victory of the supplies design system.`,
+        title: `Conquer supply chain complexities of today and tomorrow`,
+        description: `Monitor the sustainability standards in supply chains, get real-time updates, know your risks and keep stakeholders accountable.`,
         readMore: '#introduce-quality',
       },
     ],
@@ -53,14 +53,14 @@ const data = [
     tabPane: [
       {
         icon: <PieChart />,
-        title: 'View Reports',
+        title: 'Marketing',
       },
     ],
     tabContent: [
       {
         image: dashboard,
-        title: `Third quality feature that boost your website rank & performance`,
-        description: `Build an incredible workplace and grow your business with Gusto’s all-in-one platform with amazing contents. Get your tests delivered at let home collect sample from the victory of the supplies design system.`,
+        title: `Create competitive advantage with trust and brand transparency`,
+        description: `Create trust by interactively communicating the journey behind your customers' favorite items. Empower your decision-makers with insights on your strategy, and drive conversions around your transparency.`,
         readMore: '#introduce-quality',
       },
     ],
@@ -70,14 +70,14 @@ const data = [
     tabPane: [
       {
         icon: <Suitcase />,
-        title: 'Optimize website',
+        title: 'Provenance',
       },
     ],
     tabContent: [
       {
         image: dashboard,
-        title: `Fourth quality feature that boost your website rank & performance`,
-        description: `Build an incredible workplace and grow your business with Gusto’s all-in-one platform with amazing contents. Get your tests delivered at let home collect sample from the victory of the supplies design system.`,
+        title: `Show the complete provenance history to your customers`,
+        description: `Use the platform to include warranty details as well as transfer the product with ownership recorded on the blockchain to evidence the purchase.`,
         readMore: '#introduce-quality',
       },
     ],
@@ -87,14 +87,14 @@ const data = [
     tabPane: [
       {
         icon: <BarChart />,
-        title: 'Custom Dashboard',
+        title: 'Authenticity',
       },
     ],
     tabContent: [
       {
         image: dashboard,
-        title: `Fifth quality feature that boost your website rank & performance`,
-        description: `Build an incredible workplace and grow your business with Gusto’s all-in-one platform with amazing contents. Get your tests delivered at let home collect sample from the victory of the supplies design system.`,
+        title: `Optimize sustainability performance and claims`,
+        description: `Producer responsibilities are as considerable as they are challenging to validate. With object ownership history recorded on the blockchain, manufacturers can track repurposing activity downstream.`,
         readMore: '#introduce-quality',
       },
     ],

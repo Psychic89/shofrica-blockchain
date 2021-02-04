@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shofricablockchain-dev-190207-authRole",
+      "UnauthRoleArn": "arn:aws:iam::398207638253:role/amplify-shofricablockchain-dev-190207-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::398207638253:role/amplify-shofricablockchain-dev-190207-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-shofricablockchain-dev-190207-deployment",
+      "UnauthRoleName": "amplify-shofricablockchain-dev-190207-unauthRole",
+      "StackName": "amplify-shofricablockchain-dev-190207",
+      "StackId": "arn:aws:cloudformation:eu-central-1:398207638253:stack/amplify-shofricablockchain-dev-190207/71e3e8a0-63ee-11eb-8200-069c86174f12",
+      "AmplifyAppId": "d320d4u8sbvm2b"
+    },
+    "categories": {
+      "auth": {
+        "shofricablockchain4fe5dc7f": {}
+      }
+    }
+  }
+}

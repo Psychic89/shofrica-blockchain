@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "shofricablockchain4fe5dc7f": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

@@ -41,12 +41,10 @@ const Banner = () => {
         <Box sx={styles.contentWrapper}>
           <Box sx={styles.bannerContent}>
             <Heading as="h1">
-              Ultimate support system for leading agencies
+              We help everyone trust in what they buy
             </Heading>
             <Text as="p">
-              Get your tests delivered at let home collect sample from the
-              victory of the managements that supplies best design system
-              guidelines ever.
+        Through the Shofrica platform, producers, buyers and manufactures, and retailers can further evidence the origin, ownership, and characteristics of their products.
             </Text>
             <SubscriptionForm sx={styles.subscriptionForm} />
             <Flex sx={styles.sponsoredBy}>

@@ -16,14 +16,14 @@ const data = [
   {
     id: 1,
     icon: support,
-    title: 'Do you need help support',
-    description: `Get your website ads tests delivered at let collect sample from the victory of the update managements services.`,
+    title: 'Transparent Mining Platform',
+    description: `We collaborate with partners to provide an open platform for every stone – from mine to consumer.`,
   },
   {
     id: 2,
     icon: support,
-    title: 'Do you need help support',
-    description: `Get your website ads tests delivered at let collect sample from the victory of the update managements services.`,
+    title: 'Apparel Provenance Platform',
+    description: `Our solutions help partners verify and protect the value of apparel goods.`,
   },
 ];
 

@@ -8,29 +8,26 @@ import emoji from 'assets/images/icons/emoji-2.png';
 
 const data = [
   {
-    title: 'Organize your project content',
+    title: 'Stay one step ahead of supply chain risks',
     contents: (
       <div>
-        Get your blood tests delivered at let collect sample from the victory of
-        the managements that supplies best design system guidelines ever.
+        Supply chains are becoming more global, more complex and the call for more sustainable practices is reaching full volume. Events such as the COVID-19 global pandemic further highlight the lack of transparency, accountability and supply chain oversight. Not knowing your supply chain is no longer an option.
       </div>
     ),
   },
   {
-    title: 'Collaborate your documents easily',
+    title: 'Be ready for the legal compliance standards on the horizon',
     contents: (
       <div>
-        Get your blood tests delivered at let collect sample from the victory of
-        the managements that supplies best design system guidelines ever.
+  Laws such as the California Supply Chain Act (USA), Modern Slavery Act (UK), the Lieferkettengesetz (GER) and the loi de vigilance (FR) will become the standard and will hold also companies accountable for how their operations affect the people and the planet.
       </div>
     ),
   },
   {
-    title: `Build your team's knowledge base`,
+    title: `Keep your customers' values and trust in mind`,
     contents: (
       <div>
-        Get your blood tests delivered at let collect sample from the victory of
-        the managements that supplies best design system guidelines ever.
+  89% of consumers would rather buy from a company tackling social and environmental issues. Your customers care about how their clothes are made and where these come from. In turn, unavailable and unverifiable data leads to mistrust and hestiation in the purchasing process.
       </div>
     ),
   },
@@ -62,8 +59,8 @@ const PremiumFeature = () => {
             <SectionHeading
               emoji={emoji}
               sx={styles.heading}
-              title="Meet our premium features that will make you wow"
-              description="Build an incredible workplace and grow your business with Gusto’s all-in-one platform with amazing contents."
+              title="Take your sustainability to the next level"
+              description="Turn challenges into opportunities to better your business and our world."
             />
             <Box sx={styles.accordionGroup}>
               <Accordion items={data} />

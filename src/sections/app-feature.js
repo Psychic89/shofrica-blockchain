@@ -11,27 +11,27 @@ import check from 'assets/images/icons/check-circle.png';
 const data = [
   {
     id: 1,
-    label: 'Medical and vision',
+    label: 'Gain consumer trust',
   },
   {
     id: 2,
-    label: 'Life insurance',
+    label: 'Manage sustainability',
   },
   {
     id: 3,
-    label: '400(k) savings',
+    label: 'Mitigate risk',
   },
   {
     id: 4,
-    label: 'HSAs and FSAs',
+    label: 'Get a holistic view',
   },
   {
     id: 5,
-    label: 'Commuter benefits',
+    label: 'Streamline processes',
   },
   {
     id: 6,
-    label: '529 college savings',
+    label: 'Open API',
   },
 ];
 
@@ -55,8 +55,8 @@ const AppFeature = () => {
             <SectionHeading
               emoji={emoji}
               sx={styles.heading}
-              title="Built in one app to make instant reply with in lowest minutes"
-              description="Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever."
+              title="Sustainable Supply Chain Management - Accessible & Effective"
+              description="Harness the benefits of blockchain in tandem with other cutting edge technologies to discover verifiable provenance now on the Shofrica platform."
             />
             <Box sx={styles.features}>
               {data?.map(({ id, label }) => (
