@@ -2,6 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chec-store" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chec-store/kwizz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jamstack-ecommerce" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kwizz" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/shofrica-blockchain" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/yt-gatsby-terraform" vcs="Git" />
   </component>
